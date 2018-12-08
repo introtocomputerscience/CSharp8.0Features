@@ -1,0 +1,11 @@
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.exe
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.deps.json
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.runtimeconfig.json
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.runtimeconfig.dev.json
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.dll
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\bin\Debug\netcoreapp3.0\CSharp8.0Features.pdb
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\obj\Debug\netcoreapp3.0\CSharp8.0Features.csproj.CoreCompileInputs.cache
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\obj\Debug\netcoreapp3.0\CSharp8.0Features.AssemblyInfoInputs.cache
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\obj\Debug\netcoreapp3.0\CSharp8.0Features.AssemblyInfo.cs
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\obj\Debug\netcoreapp3.0\CSharp8.0Features.dll
+C:\Users\CJ\source\repos\CSharp8.0Features\CSharp8.0Features\obj\Debug\netcoreapp3.0\CSharp8.0Features.pdb
